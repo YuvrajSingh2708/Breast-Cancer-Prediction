@@ -33,9 +33,4 @@ The project concludes that the k-Nearest Neighbors algorithm demonstrated the hi
 ## References
 - Breast Cancer Wisconsin (Diagnostic) Data Set: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
 - World Health Organization (WHO) - Breast Cancer: [Fact Sheet](https://www.who.int/news-room/fact-sheets/detail/breast-cancer)
-
-Please give your suggestions.
-
-Upvote if you like the notebook.
-
-
+  
